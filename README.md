@@ -6,6 +6,3 @@ feature-tips
 *Prioritize top 3 critical tasks at the start of each day.
 *Regular clean up and archive completed tasks to keep lists focused and clean.
 
-
-## Helpful Learning Resources
-*main
